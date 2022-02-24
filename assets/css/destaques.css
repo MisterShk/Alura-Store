@@ -1,5 +1,6 @@
 .caixa {
     align-items: flex-end;
+    background: #DCDCDC;
     display: flex;
     justify-content: center;
 }
@@ -14,7 +15,7 @@
 
 .destaques__titulo {
     background: rgba(0, 0, 0, .5);
-    color: #fdfdfd;
+    color: #FDFDFD;
     padding: .6rem;
     text-align: center;
     width: 100%;
@@ -54,7 +55,7 @@
 
 .destaques__categorias___item {
     align-items: center;
-    background: #fdfdfd;
+    background: #FDFDFD;
     border-left: 5px solid transparent;
     color: #333333;
     display: flex;
